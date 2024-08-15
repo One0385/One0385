@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @One0385
-- 👀 I’m interested in mathematics, data science, and cooking.
+- 👀 I’m interested in mathematics, data science, web-dev and cooking.
 - 🌱 I’m currently learning full-stack development & machine learning.
 - 🥞 Lasagna expert.
 <!---
