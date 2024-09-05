@@ -2,6 +2,7 @@
 
 I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
+## 📊 GitHub Stats
 ![<One0385>'s Stats](https://github-readme-stats.vercel.app/api?username=One0385&theme=tokyonight&&show_icons=true)
 
 ## 🚀 About Me
