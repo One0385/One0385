@@ -37,7 +37,7 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/lokman-hakim-muhamad-30a24b214)
+- Connect with me on [LinkedIn]("www.linkedin.com/in/lokman-hakim-muhamad-30a24b214")
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
