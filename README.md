@@ -3,8 +3,12 @@
 I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for technology. My journey involves delving into the world of computer science(Precisely, Full-stack Development and Data Science), exploring new ideas, and sharing my insights with the community.
 
 ## 📊 GitHub Stats
-![<One0385>'s Stats](https://github-readme-stats.vercel.app/api?username=One0385&theme=tokyonight&&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=One0385&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=One0385&theme=tokyonight&show_icons=true)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=One0385&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## 🚀 About Me
 
