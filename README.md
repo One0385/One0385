@@ -43,7 +43,7 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
   - Preparing for Microsoft PL300 Exam.
 
 ## 📬 Get in Touch
-- Connect with me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/lokman-hakim-muhamad-30a24b214)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](lokman-hakim-muhamad-30a24b214)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
