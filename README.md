@@ -41,6 +41,9 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
+## 📜 Note to self
+_“Professionals practice. True professionals work hard to keep their skills sharp and ready. It is not enough to simply do your daily job and call that practice. Doing your daily job is performance, not practice. Practice is when you specifically exercise your skills outside of the performance of your job for the sole purpose of refining and enhancing those skills.” (The Clean Code, Page 19)_
+
 
 
 <!--
