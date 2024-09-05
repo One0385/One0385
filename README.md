@@ -8,7 +8,7 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 
 - 🔭 I'm currently pursuing my Degree in Computer Science at UiTM Shah Alam.
 - 📊 Interested in web development and data science. Precisely, full-stack development and DA/DE/DS.
-- 🌐 Proud secretary of the Computer Science Club, contributing to the CS student community.
+- 🌐 Proud ex-secretary of the Computer Science Club, contributing to the CS student community.
 - 🏫 Life-long learner. I'm currently learning about full-stack development in Codeacademy, machine learning, and data visualization during my off time.
 - 👨🏻‍🍳 Part-time lasagna expert.
 
