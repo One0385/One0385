@@ -4,7 +4,7 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 
 ## 📊 GitHub Stats
 ![<One0385>'s Stats](https://github-readme-stats.vercel.app/api?username=One0385&theme=tokyonight&&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=One0385&theme=tokyonight&layout=donut&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=One0385&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
 
