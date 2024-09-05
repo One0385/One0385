@@ -12,7 +12,7 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 - 👨🏻‍🍳 Part-time lasagna expert.
 
 
-## Tech Stack
+## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
