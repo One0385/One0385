@@ -1,6 +1,6 @@
 # Hi, I'm Lokman Hakim bin Muhamad! 👋
 
-I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![<One0385>'s Stats](https://github-readme-stats.vercel.app/api?username=One0385&theme=tokyonight&&show_icons=true)
 
