@@ -50,6 +50,6 @@ _“Professionals practice. True professionals work hard to keep their skills sh
 30 minutes every day for my craft by committing code to GitHub for 365 consecutive days for the sake of building a good habit for my own growth!
 
 ## 📬 Get in Touch
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](href="www.linkedin.com/in/lokman-hakim-muhamad-30a24b214")
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lokman-hakim-muhamad-30a24b214)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
