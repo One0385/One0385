@@ -4,7 +4,7 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 
 ## 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=One0385&theme=tokyonight&show_icons=true)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=One0385&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=One0385&layout=compact&langs_count=8&card_width=320" />
