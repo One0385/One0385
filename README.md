@@ -1,4 +1,4 @@
-# Hi, I'm <Lokman Hakim bin Muhamad>! 👋
+# Hi, I'm <LOKMAN HAKIM BIN MUHAMAD>! 👋
 
 I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
