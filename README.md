@@ -14,7 +14,7 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 
 ## Experienced with:
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=css,html,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=js,python,java)](https://skillicons.dev)
 ### Machine Learning
