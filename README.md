@@ -12,8 +12,13 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 - 👨🏻‍🍳 Part-time lasagna expert.
 
 
-## Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
+## Experienced with:
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,CSS,js)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=js,python,java)](https://skillicons.dev)
+### Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
