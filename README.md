@@ -19,6 +19,8 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 [![My Skills](https://skillicons.dev/icons?i=js,python,java)](https://skillicons.dev)
 ### Machine Learning
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+### Data Visualization
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
