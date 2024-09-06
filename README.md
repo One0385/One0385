@@ -5,12 +5,12 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=One0385&show_icons=true&theme=algolia#gh-dark-mode-only" style="margin:50px 0px">
+    <img src="https://github-readme-stats.vercel.app/api?username=One0385&show_icons=true&theme=algolia#gh-dark-mode-only" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img style="margin-down: 3px;" src="https://github-readme-stats.vercel.app/api?username=One0385&show_icons=true&theme=swift#gh-light-mode-only" />
+    <img src="https://github-readme-stats.vercel.app/api?username=One0385&show_icons=true&theme=swift#gh-light-mode-only" />
   </a>
-  <be>
+  <br>
   <a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=One0385&layout=compact&theme=algolia&langs_count=8&card_width=320#gh-dark-mode-only" />
   </a>
