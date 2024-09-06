@@ -13,7 +13,7 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 </p>
 
 ##
-<p>
+<p align="center">
   <a href="https://github.com/anuraghazra/convoychat#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=One0385&layout=compact&theme=algolia&langs_count=8&card_width=320#gh-dark-mode-only" />
   </a>
