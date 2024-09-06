@@ -3,6 +3,7 @@
 I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for technology. My journey involves delving into the world of computer science(Precisely, Full-stack Development and Data Science), exploring new ideas, and sharing my insights with the community.
 
 ## 📊 GitHub Stats
+<-- -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=One0385&show_icons=true&theme=algolia#gh-dark-mode-only" />
