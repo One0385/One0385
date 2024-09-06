@@ -2,7 +2,7 @@
 
 I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for technology. My journey involves delving into the world of computer science(Precisely, Full-stack Development and Data Science), exploring new ideas, and sharing my insights with the community.
 
-<style type="text/css"
+<style type="text/css">
   .img { display:block 
   }
 </style>
