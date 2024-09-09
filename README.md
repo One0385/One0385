@@ -66,7 +66,7 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 _“Professionals practice. True professionals work hard to keep their skills sharp and ready. It is not enough to simply do your daily job and call that practice. Doing your daily job is performance, not practice. Practice is when you specifically exercise your skills outside of the performance of your job for the sole purpose of refining and enhancing those skills.”_ (The Clean Code, Page 19)
 
 ## 🎯 Current Objective
-30 minutes every day for my craft by committing code to GitHub for 365 consecutive days for the sake of building a good habit for my own growth!
+30 minutes every day for my craft by committing code to GitHub for at least 180 days per year to build a good habit for my own growth!
 
 ## 📬 Get in Touch
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lokman-hakim-muhamad-30a24b214)
