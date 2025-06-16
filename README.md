@@ -44,6 +44,29 @@ I am an aspiring data analyst, driven by a curiosity for data science technology
   - TypeScript
   - shadcn-ui
   - Tailwind CSS
+### Generative AI
+- Intermediate Level:
+  - Prompt engineering
+  - LLM/AI Tools/Models:
+    - Github Copilot
+    - Microsoft Copilot
+    - Claude (Favourite)
+      - Claude Sonnet 4.0 (Best for technical-related)
+    - ChatGPT
+      - gpt-4.1
+      - gpt-4o
+      - gpt-4o-mini (Cheapest)
+      - o1-mini
+      - o3-mini
+    - Gemini
+      - Gemini 2.0 Flash
+      - Gemini 2.5 Flash Preview
+      - Gemini 2.5 Pro Preview
+    - Llama
+      - Llama 4
+      - Llama 3
+  - Low-code tools
+    - KNIME
 ### Machine Learning & Deep Learning
 - Intermediate Level:
   - Scikit-learn
