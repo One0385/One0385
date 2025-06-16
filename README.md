@@ -28,7 +28,7 @@ I am an aspiring data analyst, driven by a curiosity for data science technology
 
 - 🔭 I'm a Computer Science (Big Data) graduate from UiTM Shah Alam.
 - 👾 Have a look at my [personal website](https://lokmanportfolio.netlify.app/).
-- 🏫 Life-long learner. 
+- 🏫 Lifelong learner. 
 - 👨🏻‍🍳 Part-time lasagna expert. Hit me up if you want to try my lasagna!
 - ⛰️ I do weekly/bi-weekly hiking. Hit me up if you want to join me! Based in Selangor, Malaysia.
 
@@ -51,7 +51,7 @@ I am an aspiring data analyst, driven by a curiosity for data science technology
     - Github Copilot
     - Microsoft Copilot
     - Claude (Favourite)
-      - Claude Sonnet 4.0 (Best for technical-related)
+      - Claude Sonnet 4.0 (Best for the technical-related)
     - ChatGPT
       - gpt-4.1
       - gpt-4o
@@ -94,12 +94,13 @@ I am an aspiring data analyst, driven by a curiosity for data science technology
 - Basic Level:
   - AWS
   - Microsoft Azure
-  - Microsoft Fabric
   - GCP
 ### Big Data Related
 - Basic Level:
-  - 
-  - BigQuery 
+  - Microsoft Fabric
+  - Snowflake
+  - Databricks
+  - BigQuery
 
 
 ## 📜 Note to self
