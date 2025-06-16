@@ -1,6 +1,6 @@
 # Hi, I'm Lokman Hakim bin Muhamad! 👋
 
-I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for technology. My journey involves delving into the world of computer science(Precisely, Full-stack Development and Data Science), exploring new ideas, and sharing my insights with the community.
+I am an aspiring data analyst, driven by a curiosity for data science technology. My journey involves delving into the world of computer science(Precisely, Full-stack Development and Data Science), exploring new ideas, and sharing my insights with the community.
 
 ## 📊 GitHub Stats
 <!-- Stat 1 -->
@@ -26,40 +26,58 @@ I am a passionate CS student at UiTM Shah Alam, driven by a curiosity for techno
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Degree's in Computer Science at UiTM Shah Alam.
+- 🔭 I'm a Computer Science (Big Data) graduate from UiTM Shah Alam.
 - 👾 Have a look at my [personal website](https://lokmanportfolio.netlify.app/).
-- 🏫 Life-long learner.
-- 👨🏻‍🍳 Part-time lasagna expert.
+- 🏫 Life-long learner. 
+- 👨🏻‍🍳 Part-time lasagna expert. Hit me up if you want to try my lasagna!
+- ⛰️ I do weekly/bi-weekly hiking. Hit me up if you want to join me! Based in Selangor, Malaysia.
 
 
 ## Experienced with:
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=js,python,java)](https://skillicons.dev)
-### Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+- Basic Level:
+  - HTML 
+  - CSS
+  - JS
+  - React
+  - Vite
+  - TypeScript
+  - shadcn-ui
+  - Tailwind CSS
+### Machine Learning & Deep Learning
+- Intermediate Level:
+  - Scikit-learn
+- Basic Level: 
+  - TensorFlow
+  - PyTorch
+  - CUDA programming in C++/Python
+### Data Manipulation
+- Intermediate Level:
+  - Numpy
+  - Pandas
+  - Statistics in Python
 ### Data Visualization
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+- Intermediate Level:
+  - Matplotlib
+  - Seaborns
+  - Plotly
+### Business Intelligence
+- Intermediate Level:
+  - Microsoft Power BI
+- Basic Level:
+  - Tableau
+  - Looker
+### Cloud Computing
+- Basic Level:
+  - AWS
+  - Microsoft Azure
+  - Microsoft Fabric
+  - GCP
+### Big Data Related
+- Basic Level:
+  - 
+  - BigQuery 
 
-## 🌱 Currently Exploring
-
-- 🚀 Learning Full Stack Web Development
-  - Javascript syntax.
-  - Git and GitHub.
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Async JavaScript and HTTP Requests.
-  - Build a Back-end with Express.js.
-  - User Authentication & Authorization.
-  - And more(will be updated as I complete the current one).
-
-- 📊 Data Science Related
-  - Python libraries
-    - Data Manipulation (Numpy, Pandas, Statistics)
-    - Data Visualization (Seaborn, Mathplotlib, Plotly)
-    - Machine Learning & Deep Learning (SciKit-Learn, TensorFlow, PyTorch, etc)
-  - Business intelligence tools (PowerBI & Tableau).
-  - Preparing for Microsoft PL300 Exam.
 
 ## 📜 Note to self
 _“Professionals practice. True professionals work hard to keep their skills sharp and ready. It is not enough to simply do your daily job and call that practice. Doing your daily job is performance, not practice. Practice is when you specifically exercise your skills outside of the performance of your job for the sole purpose of refining and enhancing those skills.”_ (The Clean Code, Page 19)
