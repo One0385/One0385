@@ -65,6 +65,8 @@ I am an aspiring data analyst, driven by a curiosity for data science technology
     - Llama
       - Llama 4
       - Llama 3
+    - Alibaba
+      - Qwen
   - Low-code tools
     - KNIME
 ### Machine Learning & Deep Learning
