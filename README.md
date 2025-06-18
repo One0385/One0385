@@ -30,9 +30,9 @@ Welcome to my GitHub! I'm a Computer Science graduate specializing in Big Data, 
 ## 🚀 Quick Facts
 
 - 🎓 Computer Science (Big Data) graduate from UiTM Shah Alam
-- 💻 Full-stack development enthusiast with a focus on data-driven applications
-- 🤖 Experienced in AI/ML implementation and deployment
-- 🌱 Continuous learner, currently exploring advanced ML techniques
+- 💻 Full-stack development enthusiast
+- 🤖 Experienced in AI/ML implementation
+- 🌱 Continuous learner, currently exploring Gen AI, ML & DL techniques
 - 👨🏻‍🍳 Lasagna connoisseur - Always up for a culinary chat!
 - ⛰️ Avid hiker based in Selangor, Malaysia
 
