@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a Computer Science graduate specializing in Big Data, 
 
 - 🎓 Computer Science (Big Data) graduate from UiTM Shah Alam
 - 💻 Full-stack development enthusiast
-- 🤖 Experienced in AI/ML implementation
+- 🤖 Experienced in AI/ML implementation as a junior level
 - 🌱 Continuous learner, currently exploring Gen AI, ML & DL techniques
 - 👨🏻‍🍳 Lasagna connoisseur - Always up for a culinary chat!
 - ⛰️ Avid hiker based in Selangor, Malaysia
@@ -65,13 +65,14 @@ Power BI | Tableau | Looker
 
 ## 🛠️ AI Tools Expertise
 
-### Advanced Proficiency:
+### Intermediate Proficiency:
 - 🤖 GitHub Copilot & Microsoft Copilot
-- 🧠 Claude (Specialist in Technical Tasks)
+- 🧠 Claude (Sonnet 3.5, Sonnet 3.7, Sonnet 4, Opus 4) -> Current Favourite - Specialist in Technical Tasks
 - 💬 GPT-4 Series (4.1, 4o, 4o-mini)
 - 🌟 Gemini (2.0/2.5 Series)
 - 🦙 Llama (3/4)
 - 🔮 Qwen by Alibaba
+- 🐋 DeepSeek (R1, V3)
 
 ## 📚 Philosophy
 
