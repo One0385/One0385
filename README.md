@@ -45,7 +45,7 @@ HTML | CSS | JavaScript | React | TypeScript | Tailwind CSS | Vite | shadcn-ui
 
 ### 🤖 AI & Machine Learning
 ```
-Scikit-learn | TensorFlow | PyTorch | CUDA | Prompt Engineering
+Scikit-learn | TensorFlow | PyTorch | Computer Vision | CUDA | Prompt Engineering
 ```
 
 ### 📊 Data Science & Analytics
