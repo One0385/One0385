@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-lokmanportfolio.netlify.app-blue?style=flat&logo=google-chrome)](https://lokmanportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lokman_Hakim-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lokman-hakim-muhd)
 
-> *Data Analyst | Full Stack Developer | AI Enthusiast*
+> *Data Analyst | Full Stack Developer | Gen AI Enthusiast*
 
 Welcome to my GitHub! I'm a Computer Science graduate specializing in Big Data, passionate about leveraging technology to solve real-world problems. I blend data science with modern development practices to create impactful solutions.
 
